@@ -30,7 +30,7 @@
 
     <section class="about-section">
         <div class="about-image">
-            <img src="https://tse2.mm.bing.net/th?id=OIP.ZzNT3aJP2pHRl7uqrngDJAHaLG&pid=Api&P=0&h=180" alt="Your Portrait">
+            <img src="https://scontent.fhyd5-1.fna.fbcdn.net/v/t1.6435-9/165437091_859075751315922_6810629477407527505_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=YZVhhWheHl4Q7kNvgFd0Aot&_nc_zt=23&_nc_ht=scontent.fhyd5-1.fna&_nc_gid=AGbq2ZFJ2M2iPaYX5YIIMv3&oh=00_AYD2P1fInLEGH5zB7P_4NAafe8lIKBvH7jZ3-yn_muC-KA&oe=67A33AB3">
         </div>
         <div class="about-content">
             <h2>Hi, I'm Vijender Vallepu</h2>
