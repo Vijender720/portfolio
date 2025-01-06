@@ -30,7 +30,7 @@
 
     <section class="about-section">
         <div class="about-image">
-            <img src="C:\Users\vijen\Downloads\Screenshot_2024-12-24_110140-removebg-preview.png" alt="Your Portrait">
+            <img src="https://tse2.mm.bing.net/th?id=OIP.ZzNT3aJP2pHRl7uqrngDJAHaLG&pid=Api&P=0&h=180" alt="Your Portrait">
         </div>
         <div class="about-content">
             <h2>Hi, I'm Vijender Vallepu</h2>
