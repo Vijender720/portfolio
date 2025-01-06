@@ -1,0 +1,558 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+.hero {
+    height: 100vh;
+    background: linear-gradient(to right, #2c5364, #0f2027);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 4rem;
+    margin: 0;
+    text-shadow: 3px 3px 15px rgba(0, 0, 0, 0.4);
+}
+
+.hero p {
+    font-size: 1.6rem;
+    margin: 20px 0;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.4);
+}
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to bottom, #4a90e2, #1e3c72);
+    color: #fff;
+    overflow-x: hidden;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+.about-btn {
+    position: absolute;
+    top: 30px;
+    right: 580px;
+    
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    text-decoration:underline;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.about-btn:hover {
+    color: #00bcd4;
+}
+. {
+    position: absolute;
+    top: 30px;
+    right: 580px;
+    
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    text-decoration:underline;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.about-btn:hover {
+    color: #00bcd4;
+}
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: #fff;
+    overflow-x: hidden;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.education-section {
+    padding: 50px 20px;
+}
+
+.education-card {
+    background: #fff;
+    color: #333;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.education-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+.nav-btn {
+    position: absolute;
+    top: 30px;
+    right: 333px;
+
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    text-decoration:underline;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.nav-btn:hover {
+    color: #00bcd4;
+}
+.nav-btn1 {
+    position: absolute;
+    top: 30px;
+    right: 240px;
+    
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    text-decoration: underline;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.nav-btn1:hover {
+    color: #007c8d;
+}
+.nav-btn2 {
+    position: absolute;
+    top: 30px;
+    right: 450px;
+    
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    text-decoration: underline;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.nav-btn2:hover {
+    color: #007c8d;
+}
+.nav-btn3 {
+    position: absolute;
+    top: 30px;
+    right: 130px;
+    
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 30px;
+    text-decoration: underline;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.nav-btn3:hover {
+    color: #007c8d;
+}
+.about-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 30px;
+    gap: 30px;
+}
+
+.about-image {
+    flex: 1;
+    max-width: 400px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+}
+
+.about-image img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.about-content {
+    flex: 2;
+    max-width: 600px;
+}
+
+.about-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.about-content p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+.about-content .highlight {
+    color: #ff6f61;
+    font-weight: bold;
+}
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to bottom, #2a5298, #1e3c72);
+    color: #fff;
+    overflow-x: hidden;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+.additional-card {
+    background: #fff;
+    color: #333;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    margin: 20px ;
+    max-width: 250px;
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.additional-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.additional-card a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    color: #fff;
+    background: #1e90ff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.additional-card a:hover {
+    background: #3742fa;
+}
+
+.projects-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 20px;
+    gap: 30px;
+}
+.additional-card1 {
+    background: ;    
+    color: #333;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    margin: 20px ;
+    max-width: 250px;
+    padding: 20px;
+    text-align: center   ;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.additional-card1:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.additional-card1 a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    color: #fff;
+    background: #1e90ff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.additional-card1 a:hover {
+    background: #3742fa;
+}
+
+.project-card {
+    background: #fff;
+    color: #333;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    max-width: 350px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.project-image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.project-content {
+    padding: 20px;
+}
+
+.project-content h3 {
+    font-size: 1.5rem;
+    margin: 0 0 10px 0;
+}
+
+.project-content p {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.project-content a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #1e3c72;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-content a:hover {
+    color: #ff6f61;
+}
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: #fff;
+    overflow-x: hidden;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.skills-section {
+    padding: 50px 20px;
+}
+
+.skills-category {
+    margin-bottom: 40px;
+}
+
+.skills-category h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.skill-card {
+    background: #fff;
+    color: #333;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skill-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.skill-card h3 {
+    font-size: 1.8rem;
+    margin: 0 0 10px 0;
+}
+
+.skill-card p {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.skill-card .skill-level {
+    margin-top: 15px;
+    background: linear-gradient(90deg, #ff6f61, #ff3d71);
+    border-radius: 20px;
+    height: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.skill-card .skill-level span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #4a90e2;
+    border-radius: 20px;
+}
+
+.skill-card .skill-label {
+    margin-top: 5px;
+    font-size: 0.9rem;
+    color: #666;
+}
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #2c5364, #0f2027);
+    color: #fff;
+    overflow-x: hidden;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.contact-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px;
+}
+
+.contact-card {
+    background: #fff;
+    color: #333;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.contact-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.contact-card h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.contact-card p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.contact-card a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 700;
+    transition: color 0.3s ease;
+}
+
+.contact-card a:hover {
+    color: #0056b3;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: #333;
+    background: #fff;
+    margin: 0 10px;
+    font-size: 1.5rem;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.social-icons a:hover {
+    transform: scale(1.2);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+}
